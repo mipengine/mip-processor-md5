@@ -1,7 +1,7 @@
 mip-processor-md5
 ===========
 
-MIP Processor For LESS Compile
+MIP Processor For FILE MD5
 
 <a href="https://circleci.com/gh/mipengine/mip-processor-md5/tree/master"><img src="https://img.shields.io/circleci/project/mipengine/mip-processor-md5/master.svg?style=flat-square" alt="Build Status"></a>
 
