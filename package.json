@@ -7,12 +7,18 @@
     "lib": "lib",
     "test": "test"
   },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "jasmine": "^2.6.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "jasmine JASMINE_CONFIG_PATH=test/jasmine.json"
+    "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wupengFEX/mip-processor-md5.git"
+    "url": "git+https://github.com/mipengine/mip-processor-md5.git"
   },
   "keywords": [
     "mip",
@@ -30,12 +36,7 @@
   "author": "smart",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wupengFEX/mip-processor-md5/issues"
+    "url": "https://github.com/mipengine/mip-processor-md5/issues"
   },
-  "homepage": "https://github.com/wupengFEX/mip-processor-md5#readme",
-  "dependencies": {
-    "fs": "0.0.1-security",
-    "jasmine": "^2.6.0",
-    "path": "^0.12.7"
-  }
+  "homepage": "https://github.com/mipengine/mip-processor-md5#readme"
 }
