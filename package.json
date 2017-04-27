@@ -1,0 +1,41 @@
+{
+  "name": "mip-processor-md5",
+  "version": "1.0.0",
+  "description": "MIP Processor For File MD5",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine JASMINE_CONFIG_PATH=test/jasmine.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wupengFEX/mip-processor-md5.git"
+  },
+  "keywords": [
+    "mip",
+    "tool",
+    "build",
+    "processor",
+    "md5"
+  ],
+  "contributors": [
+    {
+      "name": "futureplayer",
+      "email": "smartfutureplayer@gmail.com"
+    }
+  ],
+  "author": "smart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wupengFEX/mip-processor-md5/issues"
+  },
+  "homepage": "https://github.com/wupengFEX/mip-processor-md5#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "jasmine": "^2.6.0",
+    "path": "^0.12.7"
+  }
+}
